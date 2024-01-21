@@ -383,8 +383,9 @@ footer p {
 
     .grid3{
         grid-template-columns: 1fr;
-        padding: 10%;
+        padding-top: 10%;
         grid-row-gap: 50px;
+        margin-left: 15%;
     }
 
     
